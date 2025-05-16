@@ -1,5 +1,7 @@
-for (let i = 0; i < 4; i++) {
-    for (let j = 0; j < 4; j++) {
-        console.log(i,j);
-    }
-}
+const n="1/2";
+const a=n.slice("/");
+console.log(n);
+console.log(a);
+console.log(a[0]);
+console.log(a[1]);
+console.log(a[2]);
